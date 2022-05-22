@@ -24,6 +24,12 @@ Here are the pictures to show the before and after of the filter section:
 
 In our new filter section, all that the visitor needs to do is to enter the parameters in the fields and press tab to go to the next input field or press enter and the new filtered data will be populated.
 
+#### Example of Filtered Data on State 'ar':
+![Filtered_Table](static/images/filtered_data.png "Filtered Table")
+
+#### Example of Filtered Data on State 'ar' and date '1/6/2010':
+![Filtered_Table_Two_Criterias](static/images/filtered_data_two_criteria.png "Filtered Table - Two Criterias")
+
 
 ## Summary: 
 This new filtering tool, though improved, is still far from ideal. In this section we will name a few drawbacks of this tool and a few recommendations for future developments:
